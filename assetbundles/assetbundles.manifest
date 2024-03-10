@@ -1,0 +1,8 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.3f1
+CRC: 2816960390
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: warr_test_church
+      Dependencies: {}
